@@ -1,8 +1,8 @@
 <h1>⋆.ೃ࿔*:･ hi ⋆.ೃ࿔*:･</h1>
 
-<h2>Front-end Developer / React JS</h2>
+<h2>Web Designer</h2>
 <p>
-&emsp;Currently, I am focused on learning JavaScript and React with the goal of becoming a skilled front-end developer. I am actively working on self-improvement, taking courses, and completing practical tasks to gain more hands-on experience. I believe that my perseverance, discipline, and ability to work in a team will help me achieve my goals in software development.
+&emsp;• I am working hard to become an expert in web design. I am taking courses and practicing my skills to gain more experience. I am a disciplined and team-oriented person, and I believe that these qualities will help me achieve my goals in web design.
 </p>
 <hr>
 <h2>My skills:</h2>
