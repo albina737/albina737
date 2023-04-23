@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Roman<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
+<h1>⋆.ೃ࿔*:･ hi ⋆.ೃ࿔*:･</h1>
 
 <h2>Front-end Developer / React JS</h2>
 <p>
