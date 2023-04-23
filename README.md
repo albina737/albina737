@@ -2,7 +2,9 @@
 
 <h2>Web Designer</h2>
 <p>
-&emsp;• I am working hard to become an expert in web design. I am taking courses and practicing my skills to gain more experience. I am a disciplined and team-oriented person, and I believe that these qualities will help me achieve my goals in web design.
+&emsp;• I am working hard to become an expert in web design.
+      • I am taking courses and practicing my skills to gain more experience.
+      • I am a disciplined and team-oriented person, and I believe that these qualities will help me achieve my goals in web design.
 </p>
 <hr>
 <h2>My skills:</h2>
